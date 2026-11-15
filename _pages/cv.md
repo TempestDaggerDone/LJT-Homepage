@@ -26,7 +26,7 @@ Awards and Honors
 ======
 * Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
-Research Interests and Expertise
+Skills and Research Interests
 ======
 * Natural Language Processing and Machine Learning
 * LLM Reasoning and Reinforcement Learning
