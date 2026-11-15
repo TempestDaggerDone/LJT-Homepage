@@ -22,7 +22,7 @@ I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of 
 - **Research Intern**, Tencent WXG, June 2024 – September 2024 (advisor: Zifei Shan)
 - **Research Intern**, Shanghai AI Lab, June 2023 – December 2023 (advisor: Prof. Yu Cheng)
 
-## Research Interests and Expertise
+## Skills and Research Interests
 
 - Natural Language Processing and Machine Learning
 - LLM Reasoning and Reinforcement Learning
